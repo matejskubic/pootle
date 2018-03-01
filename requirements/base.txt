@@ -2,10 +2,11 @@
 
 # Note: also adjust pootle/constants::DJANGO_MINIMUM_REQUIRED_VERSION
 # and docs/releases/M.N.O.rst
-Django~=1.10.5  # rq.filter: <1.11
+Django~=1.10.8  # rq.filter: <1.11
 
 # Django apps
-django-allauth==0.33.0
+django-allauth==0.34.0
+django-allauth-microsoft
 django-assets==0.12
 django-bulk-update==2.2.0
 django-contact-form==1.4.2
